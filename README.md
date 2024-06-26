@@ -1,2 +1,2 @@
 # CODE--A--HAUNT
-Consuklting doctor website
+Consulting doctor website
